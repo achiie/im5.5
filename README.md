@@ -1,1 +1,3 @@
-# im5.5
+# maven-project
+
+Simple Maven Project
